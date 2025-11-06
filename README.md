@@ -1,6 +1,6 @@
 # PdfGeneratorApiExample — API para generación de PDF en .NET
 
-Este proyecto es un ejemplo práctico de una **API REST desarrollada con ASP.NET Core (.NET 9)** que permite **generar archivos PDF dinámicos** a partir de plantillas Razor o datos JSON.
+Este proyecto es un ejemplo práctico de una **API REST desarrollada con ASP.NET Core (.NET 9)** que permite **generar archivos PDF dinámicos** a partir de plantillas Razor.
 
 El objetivo es mostrar cómo implementar una solución limpia y escalable para crear reportes, facturas o documentos PDF desde un backend .NET.
 
